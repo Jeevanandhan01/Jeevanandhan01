@@ -17,7 +17,7 @@
 
  🌱 I’m currently learning **Full stack development,DSA,Java . . .**
 
-⚡ I love playing games and  I proudly call myself as a **gamer**
+ ⚡ I love playing games and  I proudly call myself as a **gamer**
  </div>
  <br><br>
 
