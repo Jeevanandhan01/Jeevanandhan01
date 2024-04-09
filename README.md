@@ -6,13 +6,12 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </h1>
 
-    
-<h3 align="center">A passionate CSE student who loves engineering</h3>
 <hr>
 <br>
 
 
 <div align="left"> 
+    <h3 align="center">A passionate CSE student who loves engineering</h3>
     <p align=center>
      🔭 I am an enthusiastic tech explorer, driven by "innovation and curiosity"<br>
     🌱 I’m currently learning "Full stack development, DSA, Java, and more".<br>
