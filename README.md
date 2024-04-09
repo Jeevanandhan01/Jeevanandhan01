@@ -16,7 +16,8 @@
     </p>
  </div>
  <hr>
- <br>
+
+ 
  <div align="center"> 
      <h1>CONTACT ME 👇</h1>
   <a href="mailto:jeevanandhanofficial@gmail.com">
@@ -29,10 +30,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
-
-
-
+<hr>
 
 
 
