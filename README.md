@@ -12,11 +12,12 @@
 <br><br>
     
 <div align="center"> 
+    
  🔭 I’m **Jeevanandhan**
 
  🌱 I’m currently learning **Full stack development,DSA,Java . . .**
 
-⚡ I love playing games and yeah I'm a **gamer**
+⚡ I love playing games and  I proudly call myself as a **gamer**
  </div>
  <br><br>
 
