@@ -4,6 +4,6 @@
 </h1>
 <h3 align="center">A passionate CSE student who loves engineering</h3>
 <br>
-<div id="github page>
+<div>
 [![Jeeva's graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevanandhan01&bg_color=000000&color=ffffff&line=3eea7a&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
