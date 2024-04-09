@@ -7,11 +7,8 @@
 </h1>
 
 <hr>
-<br>
-
-
 <div align="left"> 
-    <h3 align="center">A passionate CSE student who loves engineering</h3>
+    <h3 align="center">A passionate CSE student who loves engineering</h3><br>
     <p align=center>
      🔭 I am an enthusiastic tech explorer, driven by "innovation and curiosity"<br>
     🌱 I’m currently learning "Full stack development, DSA, Java, and more".<br>
