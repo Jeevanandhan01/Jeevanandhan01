@@ -12,10 +12,11 @@
 
 
 <div align="center"> 
-    🔭 I am Enthusiastic tech explorer, driven by **innovation and curiosity**<br>
-    🌱 I’m currently learning **Full stack development,DSA,Java . . .**<br>
-    ⚡ I love playing games and  I proudly call myself as a **gamer**<br>
+     🔭 I am an enthusiastic tech explorer, driven by innovation and curiosity<br>
+    🌱 I’m currently learning **Full stack development**, **DSA**, **Java**, and more.<br>
+    ⚡ I love playing games and proudly call myself a **gamer**.<br>
  </div>
+
  <br><br>
 
 
