@@ -7,7 +7,6 @@
     <h3 align="center">A PASSIONATE CSE STUDENT WHO LOVES TECHNOLOGY</h3>
 </h1>
 
-<hr>
 <div align="left"> 
     <p align=center>
      🔭 I am an enthusiastic tech explorer, driven by "innovation and curiosity"<br>
