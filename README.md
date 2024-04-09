@@ -11,7 +11,7 @@
     
 <div align="center"> 
     
- 🔭 I’m **Jeevanandhan**
+ 🔭 I am Enthusiastic tech explorer, driven by **innovation and curiosity**
 
  🌱 I’m currently learning **Full stack development,DSA,Java . . .**
 
@@ -25,8 +25,9 @@
 
 
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanandhan01?theme=dark&font=Kanit&ext=heatmap)
+<div align=center>
+<img src="https://leetcard.jacoblin.cool/jeevanandhan01?theme=dark&font=Kanit&ext=heatmap">
+</div>
 <br>
 
 [![Jeeva's graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevanandhan01&bg_color=000000&color=ffffff&line=3eea7a&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
