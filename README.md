@@ -8,6 +8,7 @@
 
     
 <h3 align="center">A passionate CSE student who loves engineering</h3>
+<hr>
 <br>
 
 
@@ -18,6 +19,7 @@
     ⚡ I love playing games and I proudly call myself a "gamer".<br>
     </p>
  </div>
+ <hr>
 
  <br><br>
 
