@@ -8,10 +8,10 @@
 </h1>
 <br>
 <p align="left">
-🔭 I’m currently doing my undergraduate in CSE <br>
-👯 I’m looking forward to connect with many people who are tech enthusiast like me<br>
-🌱 I’m currently learning DSA, Full stack web development and Ethical Hacking<br>
-⚡ I love playing games and I'm a great fan of open world genre games
+🔭 I'm currently immersed in my undergraduate studies in Computer Science and Engineering, exploring the fascinating realms of technology and innovation.<br>
+👯 Excited to forge connections with fellow tech enthusiasts to exchange knowledge, ideas, and experiences in the ever-evolving tech sphere.<br>
+🌱 Actively honing my skills in Data Structures and Algorithms, mastering Full Stack Web Development, and delving into the intriguing world of Ethical Hacking to expand my expertise and stay ahead in the dynamic tech landscape.<br>
+⚡ A fervent gamer with a deep appreciation for the immersive experiences offered by open-world genre games, where every corner holds a new adventure and endless possibilities await exploration.
 </p>
 
 
