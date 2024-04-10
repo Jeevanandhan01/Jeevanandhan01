@@ -23,8 +23,7 @@
  <br>
 
 
-
- <h1 align="center">CONTACT ME 👇</h1>
+# Contact Me 👇 :
  <div align="center"> 
   <a href="mailto:jeevanandhanofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
