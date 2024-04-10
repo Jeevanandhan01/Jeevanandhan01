@@ -42,5 +42,5 @@
 <hr>
 
 # ✍️ RANDOM DEV QUOTE:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 
