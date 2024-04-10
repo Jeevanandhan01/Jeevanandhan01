@@ -14,6 +14,8 @@
 ⚡ Passionate about playing games, particularly open-world genres.<br>
 </p>
 <hr>
+<br>
+<br>
     
 # 🌐 Socials:
     
