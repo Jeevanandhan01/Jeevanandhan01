@@ -33,11 +33,8 @@
 </div>
 
 # 📊 GITHUB STATS:
-![](https://github-readme-stats.vercel.app/api?username=jeevanandhan01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeevanandhan01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanandhan01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeevanandhan01&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Jeeva's graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevanandhan01&bg_color=000000&color=ffffff&line=3eea7a&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
