@@ -15,11 +15,11 @@
 </p>
 <hr>
 <br>
-<br>
+
     
 # 🌐 Socials:
     
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jeevanandhan.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanandhan01) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jeevanandhan01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Jeevanandhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jeevanandhan_01) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jeevanandhan.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanandhan01) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jeevanandhan01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Jeevanandhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jeevanandhan_01) 
 <hr>
 
 
