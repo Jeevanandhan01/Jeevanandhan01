@@ -37,9 +37,8 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanandhan01&theme=dark&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanandhan01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
-
-[![Jeeva's graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevanandhan01&bg_color=000000&color=ffffff&line=3eea7a&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 
 # ✍️ RANDOM DEV QUOTE:
