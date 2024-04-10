@@ -43,6 +43,5 @@
 
 # ✍️ RANDOM DEV QUOTE:
 <div align="center">
-
-</div>
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
