@@ -13,6 +13,7 @@
 🌱 Actively learning DSA, Full-stack Web Development, and Ethical Hacking.<br>
 ⚡ Passionate about playing games, particularly open-world genres.<br>
 </p>
+<hr>
 
 
 
