@@ -31,6 +31,7 @@
 <div align=center>
 <img src="https://leetcard.jacoblin.cool/jeevanandhan01?theme=dark&font=Kanit&ext=heatmap">
 </div>
+<hr>
 
 # 📊 GITHUB STATS:
 <div align="center">
