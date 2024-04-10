@@ -3,13 +3,12 @@
     <img src = "https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+!+%F0%9F%91%8B;I'm+Jeevanandhan+%F0%9F%98%8A;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Web+developer+%F0%9F%8C%90";
 </h1>
 <br>
-    
+<p>
 🔭 I’m currently doing my undergraduate in CSE on<br>
 👯 I’m looking forward to connect with many people who are tech enthusiast like me<br>
 🌱 I’m currently learning DSA, Full stack web development and Ethical Hacking<br>
 ⚡ I love playing games and I'm a great fan of open world genre games
-
-
+</p>
 
 
 # 💻 Tech Stack:
